@@ -1,0 +1,10 @@
+venv/
+artifacts/
+data/events.csv
+data/cleaned_interactions.csv
+data/*.npy
+extra_things/
+__pycache__/
+*.pyc
+*.pkl
+*.npy
