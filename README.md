@@ -1,7 +1,7 @@
 # ShyftLabs AI Recommendation and AdTech System
 
 A real-time personalization and ad targeting system built 
-for SHYFTLABS placement drive 2027.
+for SHYFTLABS .
 
 ## What This Does
 
