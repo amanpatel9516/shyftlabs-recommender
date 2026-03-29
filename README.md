@@ -336,13 +336,23 @@ streamlit run dashboard/app.py
 
 ---
 
+## 👨‍💻 Author
+
+**Aman Patel**  
+[![GitHub](https://img.shields.io/badge/GitHub-amanpatel9516-181717?style=flat&logo=github)](https://github.com/amanpatel9516)
+
+---
+
 ## 📄 License
 
-MIT License — free to use, modify, and distribute.
+MIT License — Copyright (c) 2024 **Aman Patel**
+
+> Anyone who uses or distributes this project **must keep this copyright notice** intact.  
+> See the full [LICENSE](LICENSE) file for details.
 
 ---
 
 <p align="center">
-  Built with ❤️ to demonstrate production ML engineering<br/>
+  Built with ❤️ by <b>Aman Patel</b> · <a href="https://github.com/amanpatel9516">github.com/amanpatel9516</a><br/>
   <i>data pipeline · collaborative filtering · learning-to-rank · AdTech bandit · REST API · dashboard</i>
 </p>
